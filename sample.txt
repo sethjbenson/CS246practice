@@ -1,2 +1,3 @@
 //sample text.
-This is practice of practicing. 
+This is practice of practicing.
+This is a fix for the STRETCH CHALLENGE. 
